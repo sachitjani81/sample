@@ -1,18 +1,21 @@
 var indexSectionsWithContent =
 {
-  0: "d",
-  1: "d"
+  0: "dk",
+  1: "dk",
+  2: "d"
 };
 
 var indexSectionNames =
 {
   0: "all",
-  1: "pages"
+  1: "namespaces",
+  2: "pages"
 };
 
 var indexSectionLabels =
 {
   0: "All",
-  1: "Pages"
+  1: "Namespaces",
+  2: "Pages"
 };
 
